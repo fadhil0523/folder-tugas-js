@@ -1,4 +1,4 @@
-let buttonDarkMode = document.getElementById('buttonDarkmode');
+let buttonDarkMode = document.getElementById('buttonDarkMode');
 
 buttonDarkMode.addEventListener('click', () =>{
     document.body.classList.toggle('darkmode-button')
