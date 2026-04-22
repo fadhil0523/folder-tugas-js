@@ -1,0 +1,9 @@
+.darkmode-button{
+    background-color: black;
+}
+.darkmode{
+    cursor: pointer;
+}
+.changeColor{
+    color: white;
+}
