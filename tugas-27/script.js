@@ -40,7 +40,7 @@ let nilaiIpaBudi = 90;
 if (nilaiMtkBudi >= 80 && nilaiIpaBudi >= 80) {
     console.log("Budi lulus dengan nilai baik");
 } else {
-    console.log("Budi tidak lulus atau nilainya kurang baik");
+    console.log("Budi tidak lulus atau nilainya kurang baik.");
 }
 
 // soal 5
